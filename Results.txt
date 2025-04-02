@@ -2,7 +2,13 @@
 Based on the twitter sentiment analysis, it can be predicted that BJP(Mahayuti coalition) is likely to perform better in the
 upcoming election compared to Congress(MVA Alliance), given the more favorable sentiment reflected in the scores.
 
+The BJP secured the highest vote share, with 26.77%
+BJP: (Positive Sentiment) ≈ 57.14%
+The Congress party achieved a vote share of 12.42%
+Congress: (Positive Sentiment) ≈ 18.75%
+
 It may also mean bot accounts were used to like the tweets.
+
 In some of the reports(like the one taken by sentiment) Congress was seen as winner.
 Overall the competition is expected to be tight.
 
